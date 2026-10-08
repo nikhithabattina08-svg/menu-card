@@ -1,0 +1,13 @@
+# requirements.txt
+# SpiceGarden Digital Restaurant Menu
+
+# This project uses HTML, CSS, and JavaScript.
+# No Python packages are required.
+
+# External requirement:
+# Ollama
+# Required model:
+# llama3.2
+
+# Install the Ollama model with:
+# ollama pull llama3.2
